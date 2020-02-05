@@ -3,12 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@reactivex/rxjs": "^6.5.4",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
     "@testing-library/user-event": "^7.2.1",
+    "@webex/common": "^1.80.93",
+    "@webex/components": "^1.35.0",
+    "@webex/sdk-component-adapter": "^1.19.3",
+    "core-js": "^3.6.4",
     "react": "^16.12.0",
+    "react-app-polyfill": "^1.0.5",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.3.0"
+    "react-scripts": "3.3.0",
+    "webex": "^1.80.88"
   },
   "scripts": {
     "start": "react-scripts start",
